@@ -19,7 +19,7 @@ You will be able to know the movie rating as well as an overview of the movie, a
 In the movie zone you will not only be updated of the most popular movies!!you can search for anyy movie that you want to watch and read about it before watching it.
 
 
-![](https://github.com/muneeraAlnamlah/tetsting/blob/main/Search.gif)
+![](https://github.com/muneeraAlnamlah/CS346_Project/blob/main/Search.gif)
 
 
 
