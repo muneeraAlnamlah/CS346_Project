@@ -8,7 +8,7 @@ in the movie Zone you will be able to know all the popular movies currently sinc
 You will be able to know the movie rating as well as an overview of the movie, amazing movies would apear in green, mid movies will be orange and bad movies will be red
 
 
-![](https://github.com/muneeraAlnamlah/tetsting/blob/main/MovieMain.gif)
+![](https://github.com/muneeraAlnamlah/CS346_Project/blob/main/MovieMain.gif)
 
 
 
