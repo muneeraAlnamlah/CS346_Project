@@ -33,5 +33,5 @@ what makes The moie zone so speacial is providing a shop for the movies merchand
 ## 4-About our team
 
 
-![](https://github.com/muneeraAlnamlah/tetsting/blob/main/AboutUs.gif)
+![](https://github.com/muneeraAlnamlah/CS346_Project/blob/main/AboutUs.gif)
 
