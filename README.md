@@ -4,7 +4,7 @@
 
 
 ## 1-popular movies
-in the movie Zone you will be ake to know all the popular movies currently since the movie zone is conncted to a large movie data base that kepes track of all the popular movies at the time and inform you about them.
+in the movie Zone you will be able to know all the popular movies currently since the movie zone is conncted to a large movie data base that kepes track of all the popular movies at the time and inform you about them.
 You will be able to know the movie rating as well as an overview of the movie, amazing movies would apear in green, mid movies will be orange and bad movies will be red
 
 
