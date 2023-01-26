@@ -27,7 +27,7 @@ In the movie zone you will not only be updated of the most popular movies!!you c
 what makes The moie zone so speacial is providing a shop for the movies merchandice. you will be capeble of buying your favourite movie T-shirts,mugs etc... easily
 
 
-![](https://github.com/muneeraAlnamlah/tetsting/blob/main/shop.gif)
+![](https://github.com/muneeraAlnamlah/CS346_Project/blob/main/shop.gif)
 
 
 ## 4-About our team
