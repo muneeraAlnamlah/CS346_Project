@@ -6,6 +6,10 @@ in this page you can sign in if you already have an acount or create a new accou
 
 ![](https://github.com/muneeraAlnamlah/CS346_Project/blob/main/sign%20in-up.gif)
 
+Note that the website have been connected to the mongo data base and specifically the MovieZone data base
+![](https://github.com/muneeraAlnamlah/CS346_Project/blob/main/mongodbc.png)
+
+
 
 
 
