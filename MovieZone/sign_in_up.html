@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>create new acount</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel = "stylesheet" href="sign_in_up.css">
+    </head>
+    <body>
+        <div class="main-container">
+            
+            
+
+        <div class = "log-container">
+            
+            <div class="btn-box">
+                <div class="btn-color" id = "btn-color"></div>
+                <button type="button" class="toggle-btn" id="si" onclick="sign_in()">sign in</button>
+                <button type="button" class="toggle-btn" id="su" onclick="sign_up()">sign up</button>
+            </div>
+            
+            <form id="sign-up" action="/sign_up" class="form-items" method="post">
+
+                <input type="text" name="name" id="name" placeholder="Username" class="input-field" required>
+            
+                <input type="email" name="mail" id="mail" placeholder="Enter Email" class="input-field" required>
+
+                <input type="password" name="password" id="password" placeholder="password" class="input-field" required>
+
+                <button type="submit" class = "submit-btn">sign up</button>
+        
+            </form>
+
+            <form id="sign-in" action="/" class="form-items" method="post">
+
+                <input type="text" name="name" id="name" placeholder="Username" class="input-field" required>
+
+                <input type="password" name="password" id="password" placeholder="password" class="input-field" required>
+                
+                <button type="submit" class = "submit-btn">log in</button>
+        
+            </form>
+        </div>
+        </div><!-- main-container -->
+        <script src="sign_in_up.js"></script>
+    </body>
+</html>
