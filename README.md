@@ -1,6 +1,10 @@
 # The Movoie Zone:
 
 ## 1-sign in and sign up
+in this page you can sign in if you already have an acount or create a new account if you don't have one so you can access our website!
+
+
+![](https://github.com/muneeraAlnamlah/CS346_Project/blob/main/sign%20in-up.gif)
 
 
 
